@@ -5,6 +5,7 @@
 
 ### I 💜 CLI tools
 
+- 🚌 **[fab](https://github.com/tessro/fab)** — the fabulous agent orchestrator 💅🏼
 - 🎵 **[riff](https://github.com/tessro/riff)** — unified CLI for Spotify + Sonos
 - 💡 **[tron](https://github.com/tessro/tron)** — CLI for Lutron Caséta
 - 🌈 **[picoleaf](https://github.com/tessro/picoleaf)** — CLI for Nanoleaf
