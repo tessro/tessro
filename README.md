@@ -1,6 +1,6 @@
 ## 🙋🏼‍♀️ It's me, Tess.
 
-~~Engineer~~ Agent Whisperer at [Sierra](https://sierra.ai) by day.
+~~Engineer~~ Agent Whisperer at [Instinct](https://instinct.com) by day.
 ~~Mom~~ Agent Whisperer by night.
 
 ### I 💜 CLI tools
